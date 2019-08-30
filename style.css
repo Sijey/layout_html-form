@@ -1,0 +1,12 @@
+.form_block {
+  margin-bottom: 20px;
+}
+
+.input_form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input_form:last-child {
+  margin-bottom: 0;
+}
