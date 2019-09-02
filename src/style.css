@@ -2,11 +2,14 @@
   margin-bottom: 20px;
 }
 
-.input_form {
+label {
   display: block;
-  margin-bottom: 10px;
 }
 
-.input_form:last-child {
-  margin-bottom: 0;
+label + label {
+  margin-top: 10px;
+}
+
+.inline_item {
+  display: inline;
 }
