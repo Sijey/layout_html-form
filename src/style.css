@@ -2,11 +2,11 @@
   margin-bottom: 20px;
 }
 
-label {
+.field_name {
   display: block;
 }
 
-label + label {
+.field_name + .field_name {
   margin-top: 10px;
 }
 
